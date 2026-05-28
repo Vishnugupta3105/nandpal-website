@@ -56,7 +56,7 @@ const ContactUs = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-slate-900">Registered Office</h3>
-                    <p className="text-slate-600">Nandpal Platform Services<br />[Street Address]<br />[City, State, ZIP]<br />India</p>
+                    <p className="text-slate-600">Nandpal Platform Services<br />Rajasthan Paatrika Road<br />Kota , Rajasthan , 324007 <br />India</p>
                   </div>
                 </div>
               </div>
